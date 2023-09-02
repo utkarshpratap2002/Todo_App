@@ -1,6 +1,6 @@
 # Todo App
 
-![Todo App](todo_app_screenshot.png)
+![Todo App](file:///Users/utkarshsingh/Desktop/Screenshot%202023-09-02%20at%202.41.16%E2%80%AFPM.png)
 
 ## Description
 The Todo App is a simple web application built using Python and Flask, with a user-friendly HTML and UI semantics interface. This application allows users to manage their tasks efficiently by adding, updating, and deleting tasks.
