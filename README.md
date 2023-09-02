@@ -1,19 +1,15 @@
+
 # Todo App
 
-![Todo App](https://drive.google.com/file/d/1BQOymoJzCLjeC8-ulWD3lWFNw9POsGe2/view?usp=sharing)
-
-## Description
 The Todo App is a simple web application built using Python and Flask, with a user-friendly HTML and UI semantics interface. This application allows users to manage their tasks efficiently by adding, updating, and deleting tasks.
 
 ## Table of Contents
+
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 - [Acknowledgments](#acknowledgments)
-
 ## Features
 - Add new tasks with titles and descriptions.
 - Update existing tasks.
@@ -24,6 +20,53 @@ The Todo App is a simple web application built using Python and Flask, with a us
 ## Installation
 Follow these steps to set up the Todo App locally:
 
-1. Clone this repository to your local machine using the following command:
+- Clone this repository to your local machine using the following command:
    ```bash
-   git clone https://github.com/utkarshpratap2002/Todo_App.git
+   git clone https://github.com/utkarshpratap2002/Todo_App.git  
+   ```
+- Navigate to the project directory:
+    ```
+    cd Todo_App
+    ```
+- Create a virtual environment to isolate project dependencies (optional but recommended):
+    ```
+    python -m venv .venv
+    ```
+- Activate the virtual environment:
+    - **On macOS/Linux**
+    ```
+    venv/bin/activate
+    ```
+    - **On Windows **
+    ```
+    venv\Scripts\activate
+    ```
+- Install the required packages:
+    ```
+    pip install Flask
+    ```
+## Usage
+- Start the Flask Application.
+    ```
+    python3 app.py 
+    ```
+- Open your web browser and navigate to http://localhost:5000.
+
+- Use the Todo App to manage your tasks efficiently.
+
+
+## Contact
+If you have any questions or need further assistance, please feel free to contact:
+
+Utkarsh Pratap Singh
+
+GitHub : <https://github.com/utkarshpratap2002>
+
+Email : <itsutkarshpratapon@gmail.com>
+
+
+## Acknowledgements
+
+• Special thanks to the Flask and HTML community for providing essential resources and inspiration.
+
+• Icons used in the UI are from UI Semantics.
